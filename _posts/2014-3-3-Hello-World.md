@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Git教程
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Git教程
+1、 [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+2、 [廖雪峰 Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+3、 [Pro Git 中文版](http://git-scm.com/book/zh/v1)

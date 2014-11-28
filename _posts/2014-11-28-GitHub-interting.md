@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub上有趣的东西
+title:GitHub上有趣的东西
 ---
 
 **GitHub上的书籍**

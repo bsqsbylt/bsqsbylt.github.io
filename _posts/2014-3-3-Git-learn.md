@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git教程
+title:Git教程
 ---
 
 ##Git教程
